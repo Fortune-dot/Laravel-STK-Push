@@ -19,7 +19,7 @@ class PayController extends Controller
     $PartyB = 174379;
     $PhoneNumber = '254706003510'; // replace this with your phone number
     $CallBackURL = 'https://yourdomain.com/mpesa/confirmation';
-    $AccountReference = 'Kibet You won the Jackpot';
+    $AccountReference = 'Laravel Mpesa';
     $TransactionDesc = 'Laravel Mpesa STK PUSH';
     $Remarks = 'Laravel Mpesa STK PUSH';
 
